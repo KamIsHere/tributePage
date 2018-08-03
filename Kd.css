@@ -1,0 +1,47 @@
+body {
+  background-color: #F4C430;
+
+}
+
+.thunder {
+ border: thick yellow solid;
+ margin: 0 auto;
+}
+
+.kevin {
+  position: relative;
+  width: 100%;
+}
+
+
+h4 {
+  /* position: absolute; */
+  top: 0.5em;
+  left: 1em;
+}
+
+.achievements {
+  /* display: flex;
+  flex-wrap: wrap; */
+ color: blue;
+ font-family: serif
+
+}
+
+
+ul {
+  /* position: absolute; */
+  top: 2.5em;
+  left: 1em;
+}
+
+
+.banner {
+  width: 100%;
+}
+
+ p {
+   color: brown;
+   font-family: serif;
+   font-size: 20px;
+}
