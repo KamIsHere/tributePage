@@ -3,6 +3,13 @@ body {
 }
 
 
+img {
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+
 .thunder {
  border: thick yellow solid;
  margin: 0 auto;
@@ -30,9 +37,13 @@ body {
 
 
 ul {
-  /* position: absolute; */
   top: 2.5em;
   left: 1em;
+  line-height: 1.5em;
+  display: block; 
+  height: auto;
+  margin: auto;
+   
 }
 
 
