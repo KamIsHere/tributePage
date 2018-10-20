@@ -38,7 +38,11 @@ h4 {
  font-family: serif
 
 }
-
+h2 {
+  position: absolute;
+  top: 0.5em;
+  left: 1em;
+}
 
 ul {
   position: absolute;
