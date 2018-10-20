@@ -1,49 +1,38 @@
 body {
   background-color: #F4C430;
-}
 
-
-img {
-  max-width: 100%; 
-  display: block; 
-  height: auto;
-  margin: auto;
 }
 
 .thunder {
  border: thick yellow solid;
  margin: 0 auto;
- width: 100%;
 }
 
 .kevin {
-  width: 100%;
   position: relative;
+  width: 100%;
 }
 
-#title{
-  color: brown;
-  font: 400 15em/1.3 'Arizonia', Helvetica, sans-serif;
- text-align: center;
+
+h4 {
+  /* position: absolute; */
+  top: 0.5em;
+  left: 1em;
 }
 
 .achievements {
- position: absolute;
- color: darkblue;
- font-family: serif;
- font-size: 20px;
- top: 10px
+  /* display: flex;
+  flex-wrap: wrap; */
+ color: blue;
+ font-family: serif
+
 }
 
 
 ul {
+  /* position: absolute; */
   top: 2.5em;
   left: 1em;
-  line-height: 1.5em;
-  display: block; 
-  height: auto;
-  margin: auto;
-   
 }
 
 
